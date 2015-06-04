@@ -16,9 +16,4 @@
         scaleyviewpager:offscreenPageLimit="3"
         scaleyviewpager:pagerMargin="-350" />
 
-    <Button
-        android:id="@+id/text_btn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
 </RelativeLayout>
