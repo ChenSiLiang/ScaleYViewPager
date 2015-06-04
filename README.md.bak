@@ -25,4 +25,4 @@ NOTE:
 `offscreenPageLimit` : the offscreen page number, can simply **not** specify.
 `pageMargin`:the margin between pages,can simply **not** specify.
 `paddingLeft`:set the left padding of center pager,according to your device.
-`paddingRight`:set the right padding of center pager,according to your device.
+`paddingRight`:set the right padding of center pager

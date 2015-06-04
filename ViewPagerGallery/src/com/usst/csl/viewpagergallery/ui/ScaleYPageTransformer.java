@@ -1,4 +1,4 @@
-package comusst.csl.viewpagergallery.ui;
+package com.usst.csl.viewpagergallery.ui;
 
 import android.support.v4.view.ViewPager.PageTransformer;
 import android.view.View;
