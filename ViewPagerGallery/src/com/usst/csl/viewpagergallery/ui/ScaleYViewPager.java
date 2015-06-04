@@ -95,7 +95,7 @@ public class ScaleYViewPager extends ViewPager {
 		if (list != null && list.size() > 0) {
 			mList.clear();
 			mList.addAll(list);
-			mAdapter.notify();
+			mAdapter.notifyDataSetChanged();
 		} else {
 			throw new IllegalArgumentException("the list is illegal!");
 		}
