@@ -1,5 +1,5 @@
-# ScaleViewPager
-` a ViewPager with a scaleY animator
+# ScaleYViewPager
+## a ViewPager with a scaleY animator
 
 #Setup
 * In Eclipse, just import the library as an Android library project. Project > Clean to generate the binaries you need, like R.java, etc.
@@ -34,5 +34,6 @@ NOTE:
 * ChenSL
  
 #LOOK
+![how it looks like](https://github.com/ChenSiLiang/ScaleViewPager/blob/master/ViewPagerGallery/show/show.gif)
 
 

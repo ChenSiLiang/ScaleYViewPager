@@ -1,5 +1,5 @@
 # ScaleViewPager
-` a ViewPager with a scaleY animator
+## a ViewPager with a scaleY animator
 
 #Setup
 * In Eclipse, just import the library as an Android library project. Project > Clean to generate the binaries you need, like R.java, etc.
@@ -25,14 +25,15 @@
 </RelativeLayout> `
 
 NOTE:
-1. `offscreenPageLimit` : the offscreen page number, can simply **not** specify.
-2. `pageMargin`:the margin between pages,can simply **not** specify.
-3. `paddingLeft`:set the left padding of center pager,according to your device.
-4. `paddingRight`:set the right padding of center pager,according to your device.
+* `offscreenPageLimit` : the offscreen page number, can simply **not** specify.
+* `pageMargin`:the margin between pages,can simply **not** specify.
+* `paddingLeft`:set the left padding of center pager,according to your device.
+* `paddingRight`:set the right padding of center pager,according to your device.
 
 #Developed By
 * ChenSL
  
 #LOOK
+![how it looks like](https://github.com/ChenSiLiang/ScaleViewPager/blob/master/ViewPagerGallery/show/show.gif)
 
 
