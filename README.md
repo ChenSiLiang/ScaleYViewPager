@@ -25,20 +25,11 @@
 </RelativeLayout> `
 
 NOTE:
-
-* `offscreenPageLimit` : the offscreen page number, can simply **not** specify.
-* `pageMargin`:the margin between pages,can simply **not** specify.
-* `paddingLeft`:set the left padding of center pager,according to your device.
-* `paddingRight`:set the right padding of center pager,according to your device.
-
-#Developed By
-* ChenSL
-
 1. `offscreenPageLimit` : the offscreen page number, can simply **not** specify.
 2. `pageMargin`:the margin between pages,can simply **not** specify.
 3. `paddingLeft`:set the left padding of center pager,according to your device.
 4. `paddingRight`:set the right padding of center pager,according to your device.
 
 #Developed By
-*ChenSL
+* ChenSL
 
